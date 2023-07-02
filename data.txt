@@ -1,0 +1,10 @@
+Yes, Yes, Elder, Male, Yes
+Yes, Yes, Adult, Male, Yes
+Yes, Yes, Elder, Female, Yes
+Yes, No, Elder, Female, No
+No, Yes, Teenager, Male, Yes
+No, No, Teenager, Male, Yes
+Yes, Yes, Adult, Male, No
+No, No, Teenager, Female, No
+No, No, Adult, Female, Yes
+Yes, Yes, Adult, Female, No
