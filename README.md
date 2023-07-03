@@ -1,6 +1,8 @@
 # PP-Bayes
 A Prototype Design on Privacy-Preserving Outsourced Bayesian Network
 
+https://link.springer.com/chapter/10.1007/978-3-031-05491-4_7
+
 此架構的 Bayesain Network 模型為預先訓練好的模型。
 
 1. MO 初始化表格
